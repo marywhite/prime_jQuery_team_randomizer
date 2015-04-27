@@ -1,0 +1,20 @@
+.teamSizeButton, .refreshButton {
+	width: 100px;
+	height: 100px;
+	background-color: #DDDDDD;
+	display: inline-block;
+	float: left;
+	margin: 0 10px;
+}
+
+.teamContainer { 
+	width: 900px;
+	display: block;
+	float: left;
+}
+
+.nameList {
+	width: 150px;
+	display: inline-block;
+	float: left;
+}
